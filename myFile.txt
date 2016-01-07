@@ -1,1 +1,2 @@
 Adding a line to this file for the workshop.
+As an exercise we are adding another line of text to this file. 
